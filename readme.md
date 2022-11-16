@@ -1,6 +1,5 @@
 # Django Rest Framework with Allauth
 
-## Instalation
 
 Install the required packages
 ```python
